@@ -21,5 +21,5 @@ Currently open to Rust and senior frontend roles.
 ## Find me
 
 - LinkedIn: [linkedin.com/in/jptcnde](https://www.linkedin.com/in/jptcnde/)
-- Work GitHub: [github.com/jptcnde](https://github.com/kulapoo)
+- Work GitHub: [github.com/jptcnde](https://github.com/jptcnde)
 - Email: kulaskulapoo@gmail.com

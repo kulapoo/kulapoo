@@ -1,5 +1,3 @@
-# John Patrick Coniconde
-
 **Rust engineer** · **Frontend lead** · 10+ years in production
 
 I build with **Rust** and **React / TypeScript** at a senior level.

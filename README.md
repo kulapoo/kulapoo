@@ -1,4 +1,4 @@
-**Rust engineer** · **Frontend lead** · 10+ years in production
+**Rust engineer** · **Software Engineer** · 10+ years in production
 
 I build with **Rust** and **React / TypeScript** at a senior level.
 A decade shipping fullstack products — from design systems to AWS microservices to AI-integrated tools.

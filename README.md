@@ -12,7 +12,7 @@ Currently open to Rust and senior frontend roles.
 |---|---|
 | **Rust** | Axum · Tokio · Leptos · Tauri · Serde |
 | **Frontend** | React · TypeScript · Tailwind |
-| **Backend** | Node.js · AWS · PostgreSQL · MongoDB |
+| **Backend** | Node.js · PHP · C# · Python · AWS · PostgreSQL · MongoDB |
 | **AI** | LLM integration · AI agents · Prompt engineering |
 
 ---

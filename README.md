@@ -31,12 +31,9 @@ Currently open to Rust, Python, and senior frontend roles.
 ![My Skills](https://skillicons.dev/icons?i=heroku,githubactions,googlecloud,postman,aws)
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/kulapoo/kulapoo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/kulapoo/kulapoo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
 ## Find me
 
 - LinkedIn: [linkedin.com/in/jptcnde](https://www.linkedin.com/in/jptcnde/)
 - Work GitHub: [github.com/jptcnde](https://github.com/kulapoo)
+- website: [Visit here](https://portfolio-nine-phi-99.vercel.app)
 - Email: kulaskulapoo@gmail.com

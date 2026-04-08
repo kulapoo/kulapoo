@@ -1,0 +1,28 @@
+name: generate waka stats
+
+on:
+  # run automatically at the end of every day
+  # schedule:
+  #   - cron: "0 0 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+  # run on every push on the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI }}
+          SHOW_MASKED_TIME: true
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          BLOCKS: "_/|"

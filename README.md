@@ -1,6 +1,6 @@
 # John Patrick Coniconde
 
-**Senior Frontend Developer** · **Rust engineer** · 10+ years in production
+**Senior Software Engineer** · **Rust engineer** · 10+ years in production
 
 I build with **Rust**, Python, and **React / TypeScript** at a senior level.
 A decade shipping fullstack products — from design systems to microservices to AI-integrated tools.

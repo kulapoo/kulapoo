@@ -1,5 +1,3 @@
-# John Patrick Coniconde
-
 **Senior Software Engineer** · **Rust engineer** · 10+ years in production
 
 I build with **Rust**, Python, and **React / TypeScript** at a senior level.

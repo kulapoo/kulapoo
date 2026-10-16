@@ -27,11 +27,3 @@ Currently open to Rust, Python, and senior frontend roles.
 ### Other
 
 ![My Skills](https://skillicons.dev/icons?i=heroku,githubactions,googlecloud,postman,aws)
-
-
-## Find me
-
-- LinkedIn: [linkedin.com/in/jptcnde](https://www.linkedin.com/in/jptcnde/)
-- Work GitHub: [github.com/jptcnde](https://github.com/kulapoo)
-- website: [Visit here](https://portfolio-nine-phi-99.vercel.app)
-- Email: 116390979+kulapoo@users.noreply.github.com
